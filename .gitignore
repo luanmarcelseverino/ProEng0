@@ -1,0 +1,6 @@
+.venv/
+results/
+browser/
+node_modules/
+__pycache__/
+*.log
