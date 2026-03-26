@@ -13,7 +13,13 @@ Este projeto demonstra a implementação de testes automatizados utilizando a ar
 * `/tests`: Contém os cenários de teste escritos em linguagem natural.
 * `/results`: Relatórios detalhados e evidências (screenshots).
 
-## Como rodar o projeto
-1. Instale as dependências: `poetry install`
-2. Inicialize o Browser: `poetry run rfbrowser init`
-3. Execute os testes: `poetry run robot -d ./results teste/compra_test.robot`
+## Como Rodar o Projeto
+1. Certifique-se de ter o Python e o Node.js instalados.
+2. Instale o Poetry: `pip install poetry`
+3. Instale as dependências:
+   ```bash
+   poetry install
+   poetry run rfbrowser init
+   poetry run robot -d ./results teste/compra_test.robot
+
+Dúvidas ou sugestões? Conecte-se comigo no LinkedIn https://www.linkedin.com/in/luanmarcelseverino/
