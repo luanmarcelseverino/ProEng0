@@ -1,4 +1,4 @@
-# Automação E2E-Commerce-Framework: Automação com Arquitetura POM
+# RF-E2E-Commerce: Framework com Arquitetura POM
 
 Este projeto demonstra a implementação de testes automatizados utilizando a arquitetura **Page Object Model (POM)**, garantindo manutenibilidade e escalabilidade.
 
